@@ -2,7 +2,7 @@
 # Every line should have one instruction using puts.
 # The first instruction is correct. 
 
-puts "How To Do The Macarena:"
+puts ""
 # Step 1: GOOD
 puts "Step 1: Right arm out in front of you, palm facing down."
 
